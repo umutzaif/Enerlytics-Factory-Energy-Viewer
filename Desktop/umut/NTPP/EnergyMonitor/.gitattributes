@@ -1,0 +1,6 @@
+# Export ignore (prevents personal paths in exports)
+* export-ignore
+
+# Linguist overrides (GitHub language detection)
+*.sql linguist-detectable=true
+*.cs linguist-language=C#
